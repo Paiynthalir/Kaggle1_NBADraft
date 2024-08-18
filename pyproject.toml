@@ -13,6 +13,7 @@ scikit-learn = "1.5.1"
 matplotlib = "^3.9.2"
 pyarrow = "^17.0.0"
 altair = "^5.4.0"
+imbalanced-learn = "^0.12.3"
 
 
 [build-system]
